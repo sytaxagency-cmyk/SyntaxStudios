@@ -120,4 +120,4 @@ console.log("%cSyntax Studios","color:#4f8cff;font-size:22px;font-weight:bold;")
 
 console.log("Website developed by Syntax Studios");
 console.log("Telegram: https://t.me/zahlos");
-console.log("Email: syntaxagency@gmail.com");
+console.log("Email: systaxagency@gmail.com");
